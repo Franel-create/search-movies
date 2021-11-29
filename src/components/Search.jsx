@@ -75,6 +75,4 @@ class Search extends React.Component {
     }
 }
 
-// onKeyPress={this.props.searchMovie}
-
 export default Search;
